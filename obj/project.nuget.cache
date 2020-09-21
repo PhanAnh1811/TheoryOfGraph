@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hHN+xS9C91Rh9UJ6+4zIvzuZH+P+hNiNb6uc4rS3E4QFq2WRXDHEISlDowEUQ41i9OGTnfXGG+A+xL3woPpdUg==",
+  "dgSpecHash": "ZNkchYsZ/HjWXEXn/NLh5e7nY71WlM3Y0r67jr6Mw1Y/7KThdDF3iEeDpoWb81fzoBwRWJPfsaB1JDUG2Zi9hQ==",
   "success": true,
-  "projectFilePath": "D:\\Lý thuyết đồ thị\\Graph\\Graph.csproj",
+  "projectFilePath": "D:\\Theory of Graph\\Graph\\Graph.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

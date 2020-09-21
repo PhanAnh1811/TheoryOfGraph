@@ -11,3 +11,16 @@ D:\Lý thuyết đồ thị\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompi
 D:\Lý thuyết đồ thị\Graph\obj\Debug\netcoreapp3.1\Graph.dll
 D:\Lý thuyết đồ thị\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
 D:\Lý thuyết đồ thị\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache
+D:\Theory of Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csprojAssemblyReference.cache
+D:\Theory of Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+D:\Theory of Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+D:\Theory of Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+D:\Theory of Graph\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+D:\Theory of Graph\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+D:\Theory of Graph\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+D:\Theory of Graph\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+D:\Theory of Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+D:\Theory of Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+D:\Theory of Graph\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+D:\Theory of Graph\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+D:\Theory of Graph\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lý thuyết đồ thị\\Graph\\Graph.csproj": {}
+    "D:\\Theory of Graph\\Graph\\Graph.csproj": {}
   },
   "projects": {
-    "D:\\Lý thuyết đồ thị\\Graph\\Graph.csproj": {
+    "D:\\Theory of Graph\\Graph\\Graph.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lý thuyết đồ thị\\Graph\\Graph.csproj",
+        "projectUniqueName": "D:\\Theory of Graph\\Graph\\Graph.csproj",
         "projectName": "Graph",
-        "projectPath": "D:\\Lý thuyết đồ thị\\Graph\\Graph.csproj",
+        "projectPath": "D:\\Theory of Graph\\Graph\\Graph.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Lý thuyết đồ thị\\Graph\\obj\\",
+        "outputPath": "D:\\Theory of Graph\\Graph\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
